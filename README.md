@@ -287,4 +287,5 @@
 - **Автор**: webitproff.
 - **Лицензия**: BSD License.
 - **Версия**: 1.0.0 (от 2025-08-31).
+- **[Вопросы, обсуждения, поддержка](https://abuyfile.com/ru/forums/mstore/mstoremailorder)**
 
